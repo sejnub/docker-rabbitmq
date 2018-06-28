@@ -1,4 +1,6 @@
-# docker-rabbitmq
+# docker-rabbitmq (deprecated)
+
+__This repository is kept for historical reasons only. It is outdated. Use the official rabbitmq image from docker hub instead__
 
 This repository contains a **Dockerfile** for RabbitMQ on a Raspberry Pi based on [RabbitMQ](http://www.rabbitmq.com/)
 
